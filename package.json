@@ -2,6 +2,9 @@
   "name": "app-zema-web",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "7.24.x"
+  },
   "dependencies": {
     "@hookform/resolvers": "^2.8.2",
     "@testing-library/jest-dom": "^5.11.4",
