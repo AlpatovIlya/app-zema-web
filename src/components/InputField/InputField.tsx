@@ -12,6 +12,7 @@ const InputField: FC<Props> = ({
   label, error, wrapperStyle, className, ...props}) => {
   return (
     <div className={`${wrapperStyle} `}>
+
       {label && <label htmlFor={props.id}
         className={`block text-xs 
             text-gray-700 ${error ? 'text-red-400': ''}`}>{label}</label>}

@@ -31,9 +31,9 @@
     "yup-phone": "^1.2.19"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scriptså test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
