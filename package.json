@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "7.24.x"
+    "node": "6.11.x"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.8.2",
